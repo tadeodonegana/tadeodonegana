@@ -1,6 +1,6 @@
 ### 👋 Hello there 
 
-✨ My name is *Tadeo Donegana Braunschweig* and i'm a a Data Analyst at [KUDO](https://kudoway.com/) and a Bachelor’s Degree student in Artificial Intelligence at the [University of Palermo](https://www.palermo.edu/).<br>
+✨ My name is *Tadeo Donegana Braunschweig* and i'm a Bachelor’s Degree student in Artificial Intelligence at the [University of Palermo](https://www.palermo.edu/).<br>
 
 🚀 I consider myself a proactive and curious individual, always eager to dive deep into new data sets and find meaningful insights.<br>
 
